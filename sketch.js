@@ -20,8 +20,8 @@ var score=0;
 
 function preload(){
   bookImage=loadImage("Sprites/book.png");
-  correctImage=loadImage("sprites/c.png");
-  wrongImage=loadImage("sprites/w.png");
+  correctImage=loadImage("Sprites/c.png");
+  wrongImage=loadImage("Sprites/w.png");
 
 }
 function setup() {
